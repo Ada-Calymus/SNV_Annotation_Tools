@@ -51,3 +51,6 @@ Output: VCF, JSON, Statistics
 [KOBAS] (http://kobas.cbi.pku.edu.cn/)
 Gene ontology, annotation, and enrichment tool with vizualization funtions on webserver. "The annotation module accepts the gene-list as input, including IDs or sequences, and generates annotations for each gene based on multiple databases of pathways, diseases, and GO information . The enrichment module gives an answer about which pathways and GO terms are statistically significantly associated with the input gene list or expression. Two different enrichment analyses are available, named gene-list enrichment and exp-data enrichment." doi.org/10.1093/nar/gkab447
 
+[CCAS] (https://ngdc.cncb.ac.cn/ccas/#/home)
+Cancer genome Consensus Annotation System: A one-stop and comprehensive annotation system for the individual patient at multi-omics level. CCAS integrates 20 widely recognized resources in the field to support data annotation of 10 categories of cancers covering 395 subtypes.
+
